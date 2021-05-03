@@ -1,2 +1,2 @@
 # Layout-7
-Simple Quiz
+Simple Quiz https://anton-sedchenko.github.io/Layout-7/
